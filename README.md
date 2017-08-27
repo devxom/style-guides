@@ -1,2 +1,37 @@
-# style-guide
-Style Guide. Branding
+# style-guides
+ 
+ - [Facebook](https://en.facebookbrand.com/)
+ - [Twitter](https://brand.twitter.com/)
+ - [Linkedin](https://brand.linkedin.com/)
+ - [Instagram](https://en.instagram-brand.com/)
+ - [Youtube](https://www.youtube.com/yt/about/brand-resources/)
+ - [WhatsApp](https://www.whatsappbrand.com/)
+ - [Snapchat](https://www.snapchat.com/brand-guidelines#general-usage-guidelines)
+ - [Vimeo](https://press.vimeo.com/brand-guidelines)
+ - [Spotify](https://developer.spotify.com/design/)
+ - [Medium](https://www.behance.net/gallery/7226653/Medium-Brand-Development)
+ - [IBM](https://www.ibm.com/design/language/)
+ - [Uber](https://www.uber.design)
+ - [Mozilla](https://www.mozilla.org/en-US/styleguide/)
+ - [CodePen](https://codepen.io/guide)
+ - [Mail.ru](http://design.mail.ru/paradigm/)
+ - [Atlassian](https://atlassian.design/)
+ - [Amazon](https://advertising.amazon.com/ad-specs/en/policy/brand-usage) [[pdf]](https://images-na.ssl-images-amazon.com/images/G/01/AdvertisingSite/pdfs/AmazonBrandUsageGuidelines.pdf)
+ - Apple
+   - [iOS](https://developer.apple.com/ios/human-interface-guidelines/)
+   - [macOS](https://developer.apple.com/macos/human-interface-guidelines/overview/themes/)
+ - Google
+   - [Google Trends](https://newslab.withgoogle.com/assets/docs/google-trends-guide.pdf)
+   - [Google Visual Assets Guidelines](https://www.behance.net/gallery/9028077/Google-Visual-Assets-Guidelines-Part-2)
+   - [Design for Glass](https://developers.google.com/glass/design/)
+   - [Material design](https://material.io/guidelines/)
+ - Microsoft
+   - [Microsoft Design](https://www.microsoft.com/en-us/design)
+   - [Fluent Design System](http://fluent.microsoft.com/)
+ - [Ubuntu](http://design.ubuntu.com/)
+ - [Dropbox](https://www.dropbox.com/branding)
+ - [Buffer](https://buffer.com/style-guide)
+ - [Foundation](https://foundation.zurb.com/sites/docs/v/5.5.3/)
+ - [Pivotal](https://styleguide.pivotal.io/getstarted)
+ - [Asana](https://asana.com/press)
+ - [Techcrunch](https://techcrunch.com/tag/branding/)
